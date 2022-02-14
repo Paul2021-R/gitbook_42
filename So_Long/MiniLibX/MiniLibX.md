@@ -6,6 +6,7 @@ https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
 ### Introduction
 
 
+
 1.  들어가면서
 
     MiniLibx 는 작은 그래픽 라이브러리로 X-window 그리고 Cocoa에 대한 지식 없이도 스크린 상에 무언가를 렌더링 하는 가장 기본적인 일을 할 수 있는 라이브러리다. 이 라이브러리는 소위 simple windo creation, questionable drawing tool, half-ass image functions and a weird event를 갖고 있다(ㅈㄴ 안좋다는 뜻같다...)
