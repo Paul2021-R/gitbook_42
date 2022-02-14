@@ -377,7 +377,7 @@ https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
 
     마우스 이벤트 역시 hook 하는 것이 가능하다.
 
-    ![mouse]("./src/Untitled.png")
+    ![mouse](./src/Untitled.png)
 
     Mac OS 상에 마우스 코드는 다음과 같다.
 
