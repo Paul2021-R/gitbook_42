@@ -5,6 +5,7 @@ https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
 
 ### Introduction
 
+
 1.  들어가면서
 
     MiniLibx 는 작은 그래픽 라이브러리로 X-window 그리고 Cocoa에 대한 지식 없이도 스크린 상에 무언가를 렌더링 하는 가장 기본적인 일을 할 수 있는 라이브러리다. 이 라이브러리는 소위 simple windo creation, questionable drawing tool, half-ass image functions and a weird event를 갖고 있다(ㅈㄴ 안좋다는 뜻같다...)
@@ -373,7 +374,7 @@ https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
 
     마우스 이벤트 역시 hook 하는 것이 가능하다.
 
-    ![Untitled](42%20%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20ce12f47439eb4f53bcadc691a4ba3c78/Untitled.png)
+    ![mouse]('./src/Untitled.png')
 
     Mac OS 상에 마우스 코드는 다음과 같다.
 
