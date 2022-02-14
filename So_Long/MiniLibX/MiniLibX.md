@@ -1,4 +1,4 @@
-# MiniLibx
+# MiniLibX
 
 이 문서는 아래 링크의 글의 번역 버전입니다. \
 https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
