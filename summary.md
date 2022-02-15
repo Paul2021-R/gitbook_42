@@ -2,9 +2,10 @@
 
 ## Use headings to create page groups like this one. 
 
+
 * [gitbook_42](./README.md)
 
 * [So_Long]
-	* [Subject](./Subject.md)
-	* [MiniLibX](./MiniLibX.md)
+	* [Subject](./So_Long/Subject.md)
+	* [MiniLibX](./So_Long/MiniLibX.md)
 
